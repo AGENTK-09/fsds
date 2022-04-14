@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021982090672",
+    "project_id": "fsds-ssss",
+    "storage_bucket": "fsds-ssss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021982090672:android:d53e13382e0861d9b82275",
+        "android_client_info": {
+          "package_name": "com.silversurfer.fsds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021982090672-p18d0lun4insknhgmkl9fu6bh40tmt4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxxno2b_1kUxXZFGZVKeoysBvSoHalC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021982090672-p18d0lun4insknhgmkl9fu6bh40tmt4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
